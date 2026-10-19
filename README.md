@@ -41,7 +41,7 @@ Machine Learning web application that predicts Bangalore house prices using Pyth
 
 ## 📫 Connect with Me
 
-- LinkedIn: *Add your LinkedIn URL here)](https://www.linkedin.com/in/tabassum-nuha-s-a-809768308?utm_source=share_via&utm_content=profile&utm_medium=member_android*
+- LinkedIn: *(https://www.linkedin.com/in/tabassum-nuha-s-a-809768308?utm_source=share_via&utm_content=profile&utm_medium=member_android*
 - Email: *tabassumnuha1607@gmail.com*
 
 ---
