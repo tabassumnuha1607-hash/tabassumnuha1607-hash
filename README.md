@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋, I'm Tabassum Nuha
 
-<!--
-**tabassumnuha1607-hash/tabassumnuha1607-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Pre-final Year B.Tech Student**
+Artificial Intelligence & Data Science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🤖 Interested in Artificial Intelligence
+- 📊 Passionate about Data Science
+- 💻 Learning Machine Learning & Deep Learning
+- 🌱 Currently improving my Python and AI skills
+- 🎯 Looking for AI/ML Internship opportunities
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Flask
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📌 Featured Project
+
+🏡 **Bangalore House Price Prediction**
+
+Machine Learning web application that predicts Bangalore house prices using Python, Flask and Scikit-learn.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: *Add your LinkedIn URL here)](https://www.linkedin.com/in/tabassum-nuha-s-a-809768308?utm_source=share_via&utm_content=profile&utm_medium=member_android*
+- Email: *tabassumnuha1607@gmail.com*
+
+---
+
+⭐ Thanks for visiting my profile!
